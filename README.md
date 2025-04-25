@@ -29,8 +29,8 @@ The table below is a part of the Product details table. ![product details](https
 The table below shows part of the sales dataset in balanced_tree.sales .
 ![sales](https://github.com/Ifeoma28/balanced_tree_sql/blob/ccc2a8f745e66cfc0b8d1513b9e76bb2e26a01fd/product%20sales%20table.png)
   
-## Business Questions and solutions 
-# High level Sales analysis
+# Business Questions and solutions 
+## High level Sales analysis
 - What was the total quantity sold for all products?
 ```
 SELECT DISTINCT s.prod_id, SUM(qty) AS total_qty,pd.product_name
