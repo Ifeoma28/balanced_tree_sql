@@ -26,6 +26,8 @@ ALTER COLUMN price BIGINT;
 The table below is a part of the Product details table. ![product details](https://github.com/Ifeoma28/balanced_tree_sql/blob/420af43fbb13d5cdd4f6163e6ee3c25faaf2a4c5/product%20details%20table.png)
 
 - balanced_tree.sales contains product level information for all the transactions made for Balanced Tree including quantity, price, percentage discount, member status, a transaction ID and also the transaction timestamp.
+The table below shows part of the sales dataset in balanced_tree.sales .
+![sales](https://github.com/Ifeoma28/balanced_tree_sql/blob/ccc2a8f745e66cfc0b8d1513b9e76bb2e26a01fd/product%20sales%20table.png)
   
 ## Business Questions and solutions 
 # High level Sales analysis
