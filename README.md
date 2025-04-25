@@ -254,10 +254,11 @@ ORDER BY combo_txn_count DESC;
 ## KEY INSIGHTS
 - Top-Selling Product
 The Women's Grey Fashion Jacket is the most sold item with 3,876 units sold.
+
 - Revenue and Discount Leaders
 Product ID: 2a2353 generated the highest total revenue before discount and also received the highest total discount.
-
 This suggests that the highest-earning product also received the most discount, which could signal a strong promotion strategy on high-value items.
+
 - Transaction Overview
 A total of 2,500 unique transactions were recorded.
 
@@ -274,6 +275,7 @@ This spread shows a wide variation in customer spending behavior.
 
 - Average Discounts
 The average discount value per transaction was 6,249, highlighting discounting as a key driver of sales volume.
+
 - Membership Impact
 Membership flag: t = true (member), f = false (non-member)
 
@@ -296,13 +298,12 @@ Shirts also received the highest total discount — likely due to higher unit sa
 
 - Top-Selling Products per Segment
 1) Shirts: Men’s Blue Polo & Men’s White Tee
-2)Jackets: Women’s Grey Fashion Jacket
-3)Socks: Men’s Navy Solid Socks
-4)Jeans: Women’s Black Straight Jeans
+2) Jackets: Women’s Grey Fashion Jacket
+3) Socks: Men’s Navy Solid Socks
+4) Jeans: Women’s Black Straight Jeans
 
-- Category Trends
+- Category Trends:
 Women’s products had higher quantities sold.
-
 Men’s products, despite fewer units sold, generated higher total revenue — indicating higher price points.
 
 - Top sellers by category:
