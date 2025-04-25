@@ -248,6 +248,79 @@ ORDER BY combo_txn_count DESC;
 -- products with ID 5d267b,9ec847,c8d436 has the most common combination(352) in a txn
 ```
 ## KEY INSIGHTS
+- Top-Selling Product
+The Women's Grey Fashion Jacket is the most sold item with 3,876 units sold.
+- Revenue and Discount Leaders
+Product ID: 2a2353 generated the highest total revenue before discount and also received the highest total discount.
+
+This suggests that the highest-earning product also received the most discount, which could signal a strong promotion strategy on high-value items.
+- Transaction Overview
+A total of 2,500 unique transactions were recorded.
+
+On average, each transaction included 6 unique products — indicating a high basket size.
+
+- Customer Spending Distribution
+P25 Revenue: 812,565 — Represents low-spending customers/transactions.
+
+Median Revenue: 1,597,566 — The midpoint of transaction revenue.
+
+P75 Revenue: 2,796,651 — High-spending customers or premium purchases.
+
+This spread shows a wide variation in customer spending behavior.
+
+- Average Discounts
+The average discount value per transaction was 6,249, highlighting discounting as a key driver of sales volume.
+- Membership Impact
+Membership flag: t = true (member), f = false (non-member)
+
+60.2% of transactions were made by members, while 39.8% came from non-members.
+
+Members generated slightly higher revenue per transaction (7,543) compared to non-members (7,453) — a positive sign for the membership program.
+
+- Product Analysis
+Top 3 Products by Total Revenue (Before Discount) are;
+Men’s Blue Polo Shirt
+Women’s Grey Fashion Jacket
+Men’s White Tee Shirt
+
+- Segment Highlights
+Shirts segment earned the highest total revenue.
+
+Jackets had the highest quantity sold (11,385).
+
+Shirts also received the highest total discount — likely due to higher unit sales.
+
+- Top-Selling Products per Segment
+1) Shirts: Men’s Blue Polo & Men’s White Tee
+2)Jackets: Women’s Grey Fashion Jacket
+3)Socks: Men’s Navy Solid Socks
+4)Jeans: Women’s Black Straight Jeans
+
+- Category Trends
+Women’s products had higher quantities sold.
+
+Men’s products, despite fewer units sold, generated higher total revenue — indicating higher price points.
+
+- Top sellers by category:
+Men: Blue Polo Shirt
+Women: Grey Fashion Jacket
+
+- Revenue Share by Product (Per Segment)
+Jackets: Women’s Grey Fashion Jacket dominates.
+Jeans: Women’s Black Straight Jeans leads.
+Shirts: Men’s Blue Polo Shirt is top earner.
+Socks: Men’s Navy Solid Socks takes the lead.
+
+Within each category:
+Men: Shirts contribute more than socks.
+Women: Jackets contribute more than jeans.
+
+- The Men’s Navy Solid Socks (ID: f084eb) had the highest transaction penetration — present in 1,281 transactions (over 50%).
+- The most frequent combination of three products bought together in a single transaction involved:
+
+Product IDs: 5d267b, 9ec847, c8d436
+This combo occurred 352 times — valuable for product bundling or cross-selling strategies.
+
 # FINANCIAL REPORT
 We want to combine all of the previous questions into a scheduled report that the Balanced Tree team can run at the beginning of each month to calculate the previous month’s values.
 
