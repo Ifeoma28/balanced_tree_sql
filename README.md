@@ -376,5 +376,6 @@ FROM #monthly_sales
 ;
 
 -- this gives important insights in the month of January 2021.
+-- editing the report year and report month will give you reports for other months or year you want.
 ```
 
