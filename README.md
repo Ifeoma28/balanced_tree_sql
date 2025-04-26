@@ -15,7 +15,7 @@ The dataset for this project is sourced from [Danny Ma](https://www.linkedin.com
 
 ## Tools Used
 - MSSQL for querying the database.
-- The sales table and product details were clean,  ichanged the column type of the price column from INT to BIGINT to accumulate calculations.
+- The sales table and product details were clean,  i changed the column type of the price column from INT to BIGINT to accumulate calculations.
 ```
 ALTER TABLE sales
 ALTER COLUMN price BIGINT;
@@ -320,7 +320,7 @@ Within each category:
 Men: Shirts contribute more than socks.
 Women: Jackets contribute more than jeans.
 
-- The Men’s Navy Solid Socks (ID: f084eb) had the highest transaction penetration — present in 1,281 transactions (over 50%).
+- The Men’s Navy Solid Socks (ID: f084eb) had the highest transaction penetration — present in 1,281 transactions (over 58.44%).
 - The most frequent combination of three products bought together in a single transaction involved:
 
 Product IDs: 5d267b, 9ec847, c8d436
