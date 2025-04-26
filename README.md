@@ -285,9 +285,9 @@ Members generated slightly higher revenue per transaction (7,543) compared to no
 
 - Product Analysis
 Top 3 Products by Total Revenue (Before Discount) are;
-Men’s Blue Polo Shirt
-Women’s Grey Fashion Jacket
-Men’s White Tee Shirt
+1) Men’s Blue Polo Shirt
+2) Women’s Grey Fashion Jacket
+3) Men’s White Tee Shirt
 
 - Segment Highlights
 Shirts segment earned the highest total revenue.
@@ -307,8 +307,8 @@ Women’s products had higher quantities sold.
 Men’s products, despite fewer units sold, generated higher total revenue — indicating higher price points.
 
 - Top sellers by category:
-Men: Blue Polo Shirt
-Women: Grey Fashion Jacket
+1) Men: Blue Polo Shirt
+2) Women: Grey Fashion Jacket
 
 - Revenue Share by Product (Per Segment)
 Jackets: Women’s Grey Fashion Jacket dominates.
