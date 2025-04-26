@@ -317,8 +317,8 @@ Shirts: Men’s Blue Polo Shirt is top earner.
 Socks: Men’s Navy Solid Socks takes the lead.
 
 Within each category:
-Men: Shirts contribute more than socks.
-Women: Jackets contribute more than jeans.
+1) Men: Shirts contribute more than socks.
+2) Women: Jackets contribute more than jeans.
 
 - The Men’s Navy Solid Socks (ID: f084eb) had the highest transaction penetration — present in 1,281 transactions (over 58.44%).
 - The most frequent combination of three products bought together in a single transaction involved:
