@@ -235,6 +235,8 @@ ORDER BY 3 DESC;
 -- product with ID f084eb (mens navy solid socks) has the highest transaction penetration.
 -- with a transaction count of 1281
 ```
+![txn penetration](https://github.com/Ifeoma28/balanced_tree_sql/blob/1232dd563c35303e973705afe7495f7fee668bd1/txn%20penetration.png)
+
 - What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?
 ```
 WITH filtered_sales AS (SELECT txn_id,prod_id
