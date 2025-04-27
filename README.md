@@ -111,6 +111,8 @@ GROUP BY member,txn_count
 ;
 -- note that t stands for true meaning its a member(60.2%) while f stands for false (not a member)39.8%
 ```
+![txn member count](https://github.com/Ifeoma28/balanced_tree_sql/blob/d1bb937bae9d5cc91249a075b03a1f0dc0ee0a2f/Member%20count.png)
+
 - What is the average revenue for member transactions and non-member transactions?
 ```
 SELECT member,AVG(revenue) AS average_revenue
