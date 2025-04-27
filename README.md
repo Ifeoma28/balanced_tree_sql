@@ -191,6 +191,8 @@ GROUP BY segment_name,product_name,revenue;
 -- in shirt segment, mens blue polo shirt has the highest revenue
 -- in socks segment, mens navy solid socks has the highest revenue.
 ```
+![product segment](https://github.com/Ifeoma28/balanced_tree_sql/blob/a1948778c1b8d9ae002ab6fbfeb95a215854a8b8/Segment%20revenue%20breakdown.png)
+
 - What is the percentage split of revenue by segment for each category?
 ```
 SELECT category_name,segment_name,revenue,ROUND(revenue*100.00/SUM(revenue)
