@@ -48,6 +48,8 @@ GROUP BY prod_id
 ORDER BY 4 DESC;
 -- product with ID 2a2353 has the highest generated revenue before discount
 ```
+![revenue before discount](https://github.com/Ifeoma28/balanced_tree_sql/blob/d3b9faddf8ab19cb644276ee9d9b375eb5825b1c/Revenue%20before%20discount.png)
+
 - What was the total discount amount for all products?
 ```
 SELECT prod_id,SUM(qty*price*discount) AS total_discount
