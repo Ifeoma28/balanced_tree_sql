@@ -217,6 +217,9 @@ FROM
 GROUP BY category_name,revenue;
 -- its obvious the Mens category are winning
 ```
+The diagram below shows the revenue for the men and women category.
+![Men and women](https://github.com/Ifeoma28/balanced_tree_sql/blob/c50c29e55616fcdbd90fa36539c336e3b976ba1c/mens%20and%20womens%20revenue.png)
+
 we want to look at a metric called penetration
 - this is the number of transactions where at least 1 quantity of a product was purchased divided by total number of transactions
 - what is the total transaction penetration for each product ?
