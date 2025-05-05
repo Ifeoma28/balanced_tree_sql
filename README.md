@@ -288,11 +288,9 @@ This spread shows a wide variation in customer spending behavior.
 The average discount value per transaction was 6,249, highlighting discounting as a key driver of sales volume.
 
 - Membership Impact
-Membership flag: t = true (member), f = false (non-member)
-
-60.2% of transactions were made by members, while 39.8% came from non-members.
-
-Members generated slightly higher revenue per transaction (7,543) compared to non-members (7,453) — a positive sign for the membership program.
+ t = true (member), f = false (non-member)
+1) 60.2% of transactions were made by members, while 39.8% came from non-members.
+2) Members generated slightly higher revenue per transaction (7,543) compared to non-members (7,453) — a positive sign for the membership program.
 
 - Product Analysis
 Top 3 Products by Total Revenue (Before Discount) are;
@@ -322,10 +320,10 @@ Top 3 Products by Total Revenue (Before Discount) are;
 2) Women: Grey Fashion Jacket
 
 - Revenue Share by Product (Per Segment)
-Jackets: Women’s Grey Fashion Jacket dominates.
-Jeans: Women’s Black Straight Jeans leads.
-Shirts: Men’s Blue Polo Shirt is top earner.
-Socks: Men’s Navy Solid Socks takes the lead.
+1) Jackets: Women’s Grey Fashion Jacket dominates.
+2) Jeans: Women’s Black Straight Jeans leads.
+3) Shirts: Men’s Blue Polo Shirt is top earner.
+4) Socks: Men’s Navy Solid Socks takes the lead.
 
 Within each category:
 1) Men: Shirts contribute more than socks.
