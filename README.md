@@ -274,16 +274,14 @@ This suggests that the highest-earning product also received the most discount, 
 
 - Transaction Overview
 A total of 2,500 unique transactions were recorded.
-
 On average, each transaction included 6 unique products — indicating a high basket size.
 
 - Customer Spending Distribution
 P25 Revenue: 812,565 — Represents low-spending customers/transactions.
 
-Median Revenue: 1,597,566 — The midpoint of transaction revenue.
+- Median Revenue: 1,597,566 — The midpoint of transaction revenue.
 
-P75 Revenue: 2,796,651 — High-spending customers or premium purchases.
-
+- P75 Revenue: 2,796,651 — High-spending customers or premium purchases.
 This spread shows a wide variation in customer spending behavior.
 
 - Average Discounts
@@ -303,11 +301,11 @@ Top 3 Products by Total Revenue (Before Discount) are;
 3) Men’s White Tee Shirt
 
 - Segment Highlights
-Shirts segment earned the highest total revenue.
+1) Shirts segment earned the highest total revenue.
 
-Jackets had the highest quantity sold (11,385).
+2) Jackets had the highest quantity sold (11,385).
 
-Shirts also received the highest total discount — likely due to higher unit sales.
+3) Shirts also received the highest total discount — likely due to higher unit sales.
 
 - Top-Selling Products per Segment
 1) Shirts: Men’s Blue Polo & Men’s White Tee
@@ -316,8 +314,8 @@ Shirts also received the highest total discount — likely due to higher unit sa
 4) Jeans: Women’s Black Straight Jeans
 
 - Category Trends:
-Women’s products had higher quantities sold.
-Men’s products, despite fewer units sold, generated higher total revenue — indicating higher price points.
+1) Women’s products had higher quantities sold.
+2) Men’s products, despite fewer units sold, generated higher total revenue — indicating higher price points.
 
 - Top sellers by category:
 1) Men: Blue Polo Shirt
@@ -336,7 +334,7 @@ Within each category:
 - The Men’s Navy Solid Socks (ID: f084eb) had the highest transaction penetration — present in 1,281 transactions (over 58.44%).
 - The most frequent combination of three products bought together in a single transaction involved:
 
-Product IDs: 5d267b, 9ec847, c8d436
+- Product IDs: 5d267b, 9ec847, c8d436
 This combo occurred 352 times — valuable for product bundling or cross-selling strategies.
 
 # FINANCIAL REPORT
@@ -345,6 +343,7 @@ We want to combine all of the previous questions into a scheduled report that th
 Imagine that the Chief Financial Officer (which is also Danny) has asked for all of these questions at the end of every month.
 
 He first wants you to generate the data for January only - but then he also wants you to demonstrate that you can easily run the samne analysis for February without many changes (if at all).
+
 So, after test running these, i was able to create a report for January, 2021.
 
 ```
